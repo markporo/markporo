@@ -1,4 +1,6 @@
-### Hi there 👋
+👋 My name is Mark!  I enjoy building fun projects with code, writing music, skateboarding, and drinking highly caffeinated drinks.  
+
+
 
 <!--
 **markporo/markporo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
