@@ -8,8 +8,6 @@
 
 For the last decade most of my work has been centered around music --touring, writing, recording, teaching. These past several years, however, I have developed a passion for learning and writing code. Through various Udemy courses and other online resources, I first studied web development on my own. Currently, however, I am enrolled at Bloom University of Technology where I have decided to enhance my skills so that I can further launch into a career in tech.
 
----
-
 ## About Me
 
 ---
@@ -22,23 +20,22 @@ For the last decade most of my work has been centered around music --touring, wr
 
 👊🏻 Fun fact: I have run 2 marathons and hundreds of 5ks and 8ks in my life.
 
----
-
 ## 📫 How To Reach Me
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/markporo/)
-markporo@yahoo.com
-[Resume](https://docs.google.com/document/d/1AZLCNgAqQRZaL8bnWFh1k_vZux3gkdreJ_yiqqmZt70/edit?usp=sharing)
+\*\*[LinkedIn](https://www.linkedin.com/in/markporo/)
 
----
+\*\*markporo@yahoo.com
+
+\*\*[Resume](https://docs.google.com/document/d/1AZLCNgAqQRZaL8bnWFh1k_vZux3gkdreJ_yiqqmZt70/edit?usp=sharing)
 
 ## 🛠 Tools I HAVE USED
 
 ---
 
-###Languages
+### Languages
+
 CSS3
 HTML5
 JavaScript
