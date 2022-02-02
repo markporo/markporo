@@ -4,13 +4,9 @@
 
 👋 My name is Mark! I enjoy building fun projects with code, writing music, skateboarding, and drinking highly caffeinated drinks.
 
-![ME IN BITMOJI FASHION](https://myoctocat.com/assets/images/base-octocat.svg)
-
-<!-- swap out when pushing to github -->
+![ME IN BITMOJI FASHION](https://raw.githubusercontent.com/markporo/markporo/main/images/PNG%20image-A4B6FC78982F-1.png)
 
 For the last decade most of my work has been centered around music --touring, writing, recording, teaching. These past several years, however, I have developed a passion for learning and writing code. Through various Udemy courses and other online resources, I first studied web development on my own. Currently, however, I am enrolled at Bloom University of Technology where I have decided to enhance my skills so that I can further launch into a career in tech.
-
-php, java, and c#, sql, and am currently using and focusing on javascript, html/css, ejs, node.js, and mongoDB/ mongoose library.
 
 ##About Me
 👨🏻 I’m currently learning Applied Computer Science at BloomTech
@@ -31,6 +27,7 @@ markporo@yahoo.com
 CSS3
 HTML5
 JavaScript
+PHP
 
 ###Databases
 Postgres
@@ -50,6 +47,8 @@ React Router
 Redux
 Styled Components
 Yup
+Wordpress
+EJS
 
 ###IDEs/Editors
 CodePen
