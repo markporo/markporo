@@ -24,11 +24,11 @@ For the last decade most of my work has been centered around music --touring, wr
 
 ---
 
-\*\*[LinkedIn](https://www.linkedin.com/in/markporo/)
+[LinkedIn](https://www.linkedin.com/in/markporo/)
 
-\*\*markporo@yahoo.com
+markporo@yahoo.com
 
-\*\*[Resume](https://docs.google.com/document/d/1AZLCNgAqQRZaL8bnWFh1k_vZux3gkdreJ_yiqqmZt70/edit?usp=sharing)
+[Resume](https://docs.google.com/document/d/1AZLCNgAqQRZaL8bnWFh1k_vZux3gkdreJ_yiqqmZt70/edit?usp=sharing)
 
 ## 🛠 Tools I HAVE USED
 
