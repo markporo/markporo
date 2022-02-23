@@ -78,3 +78,5 @@ GitHub
 
 cypress
 Jest
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=markporo)](https://github.com/anuraghazra/github-readme-stats)
