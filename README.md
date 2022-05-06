@@ -6,7 +6,7 @@
 
 ![ME IN BITMOJI FASHION](https://raw.githubusercontent.com/markporo/markporo/main/images/PNG%20image-A4B6FC78982F-1.png)
 
-For the last decade most of my work has been centered around music --touring, writing, recording, teaching. These past several years, however, I have developed a passion for learning and writing code. Through various Udemy courses and other online resources, I first studied web development on my own. Currently, however, I am enrolled at Bloom University of Technology where I have decided to enhance my skills so that I can further launch into a career in tech.
+For the last decade most of my work has been centered around music --touring, writing, recording, teaching. These past several years, however, I have developed a passion for web development. Through various Udemy courses and other online resources, I first studied web development on my own. Currently, however, I am enrolled at Bloom University of Technology where I have decided to enhance my skills so that I can further launch into a career in tech.
 
 ## About Me
 
