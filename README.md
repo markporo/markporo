@@ -2,19 +2,19 @@
 
 ---
 
-👋 My name is Mark! I enjoy building fun projects with code, writing music, skateboarding, and drinking highly caffeinated drinks.
+👋 My name is Mark! I enjoy building fun projects with code, writing music, and drinking highly caffeinated drinks.
 
 ![ME IN BITMOJI FASHION](https://raw.githubusercontent.com/markporo/markporo/main/images/PNG%20image-A4B6FC78982F-1.png)
 
-For the last decade most of my work has been centered around music --touring, writing, recording, teaching. These past several years, however, I have developed a passion for web development. Through various Udemy courses and other online resources, I first studied web development on my own. Currently, however, I am enrolled at Bloom University of Technology where I have decided to enhance my skills so that I can further launch into a career in tech.
+For the last decade most of my work has been centered around music --touring, writing, recording, teaching. These past several years, however, I have developed a passion for web development. Through various Udemy courses and other online resources, I first studied web development on my own.  I then enrolled and graduated from Bloom University of Technology to further my skills.  I was employed by a company called Cro Metrics for about 8 months until the economic down turn forced a lay off.  I'm currently looking for work and getting back to some personal projects in the mean time. 
 
 ## About Me
 
 ---
 
-👨🏻 I’m currently learning Applied Computer Science at BloomTech
+👨🏻 Graduated in 2022 from Bloom Instutute of Technology to focus on programming for web, but also have a bachelors from Mount Vernon Nazarene University. 
 
-💪🏻 Outside of BloomTech, I am going through another Udemy course called "The Advanced Web Developer Bootcamp" for education reinforcement.
+💪🏻 I live in Cleveland, Ohio.  
 
 🤘🏻I really enjoy the designing aspect of building sites. CSS is such an important asset to the user's experience and I hope that I can find work that allows me to really dig into the styling along with the functionality of a web app.
 
@@ -37,6 +37,7 @@ markporo@yahoo.com
 ### Languages
 
 CSS3
+SCSS
 HTML5
 JavaScript
 PHP
@@ -63,6 +64,8 @@ Styled Components
 Yup
 Wordpress
 EJS
+Optimizely
+Convert
 
 ### IDEs/Editors
 
